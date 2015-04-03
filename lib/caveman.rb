@@ -5,7 +5,8 @@ module Project
 
     SUBSTITUTES = {
       "I" => "me",
-      "am " => ""
+      "am " => "",
+      "don't" => "no"
     }
 
     def sub_string
