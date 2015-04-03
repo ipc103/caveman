@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'caveman'
+
+instance = Project::Caveman.new
+instance.call
