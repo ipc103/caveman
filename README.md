@@ -20,11 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
+This is my second gem, built quickly for practice. If you do decide to use it, let me know!
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/caveman/fork )
+1. Fork it ( https://github.com/ipc103/caveman/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
