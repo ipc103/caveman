@@ -11,7 +11,7 @@ module Project
 
     def sub_string
       new_string = @input
-      SUBSTITUTES.each {|word, replacement| new_string = new_string.gsub(word, replacement)}
+      SUBSTITUTES.each {|word, replacement| new_string = new_string.gsub(/\b#{word}\b/, replacement)}
       "grunt...#{new_string.downcase}"
     end
 
